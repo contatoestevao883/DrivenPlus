@@ -2,7 +2,7 @@
 
 # DrivenPlus
 
-Nesta aplicação possibilitamos a assinatura de um serviço online, o Driven Plus! Você pode escolher entre três planos com diferentes preços que sejam mais confortáveis para você. Além disso temos Login e Cadastro, alteração de plano ou exclusão do mesmo.
+Nesta aplicação possibilitamos a assinatura de um serviço online, o Driven Plus! Você pode escolher entre três planos com diferentes preços que sejam mais confortáveis para você. Além disso, temos Login e Cadastro, alteração de plano ou exclusão do mesmo.
 
 Principais tecnologias utilizadas: HTML | CSS | JavaScript | React.js | Styled-Components | Git
 
